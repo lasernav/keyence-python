@@ -6,7 +6,7 @@ Follow the DHCP server setup on the main README.
 
 ## Usage
 
-`python poll.py 192.168.0.51`
+`python poll.py 192.168.178.99`
 
 ```
 Sat Oct 24 16:53:28 2020: ('@1/0x1/0x7', 'SSTRING') == ['NU-EP1']
